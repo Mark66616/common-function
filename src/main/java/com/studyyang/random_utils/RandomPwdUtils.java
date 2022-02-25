@@ -1,4 +1,4 @@
-package com.studyyang.hutool_utils;
+package com.studyyang.random_utils;
 
 import org.apache.commons.lang.RandomStringUtils;
 
